@@ -30,3 +30,8 @@ body {
 .my-breadcrumb {
 	margin: 32px 0 32px 0;
 }
+
+.flex-col{
+	flex-direction: column;
+}
+
